@@ -1,0 +1,401 @@
+Accuracy for Apple Braeburn is 79.8780487804878
+Accuracy for Apple Crimson Snow is 96.62162162162163
+Accuracy for Apple Golden 1 is 100.0
+Accuracy for Apple Golden 2 is 100.0
+Accuracy for Apple Golden 3 is 100.0
+Accuracy for Apple Granny Smith is 100.0
+Accuracy for Apple Pink Lady is 55.92105263157895
+Accuracy for Apple Red 1 is 82.92682926829268
+Accuracy for Apple Red 2 is 95.1219512195122
+Accuracy for Apple Red 3 is 100.0
+Accuracy for Apple Red Delicious is 100.0
+Accuracy for Apple Red Yellow 1 is 100.0
+Accuracy for Apple Red Yellow 2 is 100.0
+Accuracy for Apricot is 90.85365853658537
+Accuracy for Avocado is 100.0
+Accuracy for Avocado ripe is 100.0
+Accuracy for Banana is 100.0
+Accuracy for Banana Lady Finger is 100.0
+Accuracy for Banana Red is 90.96385542168674
+Accuracy for Beetroot is 71.33333333333334
+Accuracy for Blueberry is 100.0
+Accuracy for Cactus fruit is 100.0
+Accuracy for Cantaloupe 1 is 100.0
+Accuracy for Cantaloupe 2 is 99.39024390243902
+Accuracy for Carambula is 81.32530120481928
+Accuracy for Cauliflower is 100.0
+Accuracy for Cherry 1 is 100.0
+Accuracy for Cherry 2 is 100.0
+Accuracy for Cherry Rainier is 79.26829268292683
+Accuracy for Cherry Wax Black is 100.0
+Accuracy for Cherry Wax Red is 100.0
+Accuracy for Cherry Wax Yellow is 100.0
+Accuracy for Chestnut is 67.97385620915033
+Accuracy for Clementine is 100.0
+Accuracy for Cocos is 100.0
+Accuracy for Corn is 83.33333333333334
+Accuracy for Corn Husk is 83.76623376623377
+Accuracy for Cucumber Ripe is 100.0
+Accuracy for Cucumber Ripe 2 is 100.0
+Accuracy for Dates is 100.0
+Accuracy for Eggplant is 66.02564102564102
+Accuracy for Fig is 100.0
+Accuracy for Ginger Root is 89.8989898989899
+Accuracy for Granadilla is 100.0
+Accuracy for Grape Blue is 100.0
+Accuracy for Grape Pink is 100.0
+Accuracy for Grape White is 100.0
+Accuracy for Grape White 2 is 100.0
+Accuracy for Grape White 3 is 100.0
+Accuracy for Grape White 4 is 100.0
+Accuracy for Grapefruit Pink is 100.0
+Accuracy for Grapefruit White is 100.0
+Accuracy for Guava is 100.0
+Accuracy for Hazelnut is 100.0
+Accuracy for Huckleberry is 100.0
+Accuracy for Kaki is 100.0
+Accuracy for Kiwi is 100.0
+Accuracy for Kohlrabi is 100.0
+Accuracy for Kumquats is 100.0
+Accuracy for Lemon is 100.0
+Accuracy for Lemon Meyer is 100.0
+Accuracy for Limes is 100.0
+Accuracy for Lychee is 100.0
+Accuracy for Mandarine is 100.0
+Accuracy for Mango is 100.0
+Accuracy for Mango Red is 86.61971830985915
+Accuracy for Mangostan is 100.0
+Accuracy for Maracuja is 90.36144578313254
+Accuracy for Melon Piel de Sapo is 100.0
+Accuracy for Mulberry is 100.0
+Accuracy for Nectarine is 40.243902439024396
+Accuracy for Nectarine Flat is 86.875
+Accuracy for Nut Forest is 100.0
+Accuracy for Nut Pecan is 94.9438202247191
+Accuracy for Onion Red is 100.0
+Accuracy for Onion Red Peeled is 100.0
+Accuracy for Onion White is 100.0
+Accuracy for Orange is 100.0
+Accuracy for Papaya is 100.0
+Accuracy for Passion Fruit is 100.0
+Accuracy for Peach is 100.0
+Accuracy for Peach 2 is 100.0
+Accuracy for Peach Flat is 88.41463414634147
+Accuracy for Pear is 100.0
+Accuracy for Pear 2 is 81.03448275862068
+Accuracy for Pear Abate is 87.95180722891565
+Accuracy for Pear Forelle is 100.0
+Accuracy for Pear Kaiser is 100.0
+Accuracy for Pear Monster is 100.0
+Accuracy for Pear Red is 96.3963963963964
+Accuracy for Pear Stone is 100.0
+Accuracy for Pear Williams is 100.0
+Accuracy for Pepino is 100.0
+Accuracy for Pepper Green is 100.0
+Accuracy for Pepper Orange is 100.0
+Accuracy for Pepper Red is 100.0
+Accuracy for Pepper Yellow is 100.0
+Accuracy for Physalis is 100.0
+Accuracy for Physalis with Husk is 87.1951219512195
+Accuracy for Pineapple is 100.0
+Accuracy for Pineapple Mini is 100.0
+Accuracy for Pitahaya Red is 98.19277108433735
+Accuracy for Plum is 100.0
+Accuracy for Plum 2 is 100.0
+Accuracy for Plum 3 is 98.35526315789474
+Accuracy for Pomegranate is 100.0
+Accuracy for Pomelo Sweetie is 100.0
+Accuracy for Potato Red is 98.66666666666667
+Accuracy for Potato Red Washed is 98.67549668874173
+Accuracy for Potato Sweet is 100.0
+Accuracy for Potato White is 100.0
+Accuracy for Quince is 100.0
+Accuracy for Rambutan is 100.0
+Accuracy for Raspberry is 100.0
+Accuracy for Redcurrant is 100.0
+Accuracy for Salak is 100.0
+Accuracy for Strawberry is 100.0
+Accuracy for Strawberry Wedge is 98.78048780487805
+Accuracy for Tamarillo is 100.0
+Accuracy for Tangelo is 100.0
+Accuracy for Tomato 1 is 100.0
+Accuracy for Tomato 2 is 100.0
+Accuracy for Tomato 3 is 100.0
+Accuracy for Tomato 4 is 100.0
+Accuracy for Tomato Cherry Red is 100.0
+Accuracy for Tomato Heart is 100.0
+Accuracy for Tomato Maroon is 100.0
+Accuracy for Tomato not Ripened is 67.72151898734177
+Accuracy for Tomato Yellow is 100.0
+Accuracy for Walnut is 100.0
+Accuracy for Watermelon is 100.0
+Total Accuracy obtained is 96.47390691114246
+
+
+The above given is the data which was written in the file
+
+The below is the data which was printed using the print lines in program
+
+131 164
+79.8780487804878
+143 148
+96.62162162162163
+160 160
+100.0
+164 164
+100.0
+161 161
+100.0
+164 164
+100.0
+85 152
+55.92105263157895
+136 164
+82.92682926829268
+156 164
+95.1219512195122
+144 144
+100.0
+166 166
+100.0
+164 164
+100.0
+219 219
+100.0
+149 164
+90.85365853658537
+143 143
+100.0
+166 166
+100.0
+166 166
+100.0
+152 152
+100.0
+151 166
+90.96385542168674
+107 150
+71.33333333333334
+154 154
+100.0
+166 166
+100.0
+164 164
+100.0
+163 164
+99.39024390243902
+135 166
+81.32530120481928
+234 234
+100.0
+164 164
+100.0
+246 246
+100.0
+195 246
+79.26829268292683
+164 164
+100.0
+164 164
+100.0
+164 164
+100.0
+104 153
+67.97385620915033
+166 166
+100.0
+166 166
+100.0
+125 150
+83.33333333333334
+129 154
+83.76623376623377
+130 130
+100.0
+156 156
+100.0
+166 166
+100.0
+103 156
+66.02564102564102
+234 234
+100.0
+89 99
+89.8989898989899
+166 166
+100.0
+328 328
+100.0
+164 164
+100.0
+166 166
+100.0
+166 166
+100.0
+164 164
+100.0
+158 158
+100.0
+166 166
+100.0
+164 164
+100.0
+166 166
+100.0
+157 157
+100.0
+166 166
+100.0
+166 166
+100.0
+156 156
+100.0
+157 157
+100.0
+166 166
+100.0
+164 164
+100.0
+166 166
+100.0
+166 166
+100.0
+166 166
+100.0
+166 166
+100.0
+166 166
+100.0
+123 142
+86.61971830985915
+102 102
+100.0
+150 166
+90.36144578313254
+246 246
+100.0
+164 164
+100.0
+66 164
+40.243902439024396
+139 160
+86.875
+218 218
+100.0
+169 178
+94.9438202247191
+150 150
+100.0
+155 155
+100.0
+146 146
+100.0
+160 160
+100.0
+164 164
+100.0
+166 166
+100.0
+164 164
+100.0
+246 246
+100.0
+145 164
+88.41463414634147
+164 164
+100.0
+188 232
+81.03448275862068
+146 166
+87.95180722891565
+234 234
+100.0
+102 102
+100.0
+166 166
+100.0
+214 222
+96.3963963963964
+237 237
+100.0
+166 166
+100.0
+166 166
+100.0
+148 148
+100.0
+234 234
+100.0
+222 222
+100.0
+222 222
+100.0
+164 164
+100.0
+143 164
+87.1951219512195
+166 166
+100.0
+163 163
+100.0
+163 166
+98.19277108433735
+151 151
+100.0
+142 142
+100.0
+299 304
+98.35526315789474
+164 164
+100.0
+153 153
+100.0
+148 150
+98.66666666666667
+149 151
+98.67549668874173
+150 150
+100.0
+150 150
+100.0
+166 166
+100.0
+164 164
+100.0
+166 166
+100.0
+164 164
+100.0
+162 162
+100.0
+164 164
+100.0
+243 246
+98.78048780487805
+166 166
+100.0
+166 166
+100.0
+246 246
+100.0
+225 225
+100.0
+246 246
+100.0
+160 160
+100.0
+164 164
+100.0
+228 228
+100.0
+127 127
+100.0
+107 158
+67.72151898734177
+153 153
+100.0
+249 249
+100.0
+157 157
+100.0
+96.47390691114246

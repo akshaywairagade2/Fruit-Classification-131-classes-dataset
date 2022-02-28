@@ -1,0 +1,132 @@
+Accuracy of Apple Braeburn is 1.2195121951219512
+Accuracy of Apple Crimson Snow is 3.3783783783783785
+Accuracy of Apple Golden 1 is 29.375
+Accuracy of Apple Golden 2 is 69.51219512195121
+Accuracy of Apple Golden 3 is 59.006211180124225
+Accuracy of Apple Granny Smith is 81.09756097560977
+Accuracy of Apple Pink Lady is 0.0
+Accuracy of Apple Red 1 is 29.878048780487802
+Accuracy of Apple Red 2 is 41.46341463414634
+Accuracy of Apple Red 3 is 0.0
+Accuracy of Apple Red Delicious is 72.28915662650603
+Accuracy of Apple Red Yellow 1 is 34.146341463414636
+Accuracy of Apple Red Yellow 2 is 26.027397260273972
+Accuracy of Apricot is 6.707317073170732
+Accuracy of Avocado is 61.53846153846154
+Accuracy of Avocado ripe is 92.7710843373494
+Accuracy of Banana is 21.084337349397593
+Accuracy of Banana Lady Finger is 4.605263157894736
+Accuracy of Banana Red is 29.518072289156628
+Accuracy of Beetroot is 40.666666666666664
+Accuracy of Blueberry is 33.76623376623377
+Accuracy of Cactus fruit is 39.1566265060241
+Accuracy of Cantaloupe 1 is 100.0
+Accuracy of Cantaloupe 2 is 99.39024390243902
+Accuracy of Carambula is 6.626506024096386
+Accuracy of Cauliflower is 38.88888888888889
+Accuracy of Cherry 1 is 96.95121951219512
+Accuracy of Cherry 2 is 74.79674796747967
+Accuracy of Cherry Rainier is 15.447154471544716
+Accuracy of Cherry Wax Black is 100.0
+Accuracy of Cherry Wax Red is 100.0
+Accuracy of Cherry Wax Yellow is 94.51219512195121
+Accuracy of Chestnut is 44.44444444444444
+Accuracy of Clementine is 100.0
+Accuracy of Cocos is 72.89156626506023
+Accuracy of Corn is 26.666666666666668
+Accuracy of Corn Husk is 70.12987012987013
+Accuracy of Cucumber Ripe is 50.0
+Accuracy of Cucumber Ripe 2 is 62.17948717948718
+Accuracy of Dates is 37.95180722891566
+Accuracy of Eggplant is 77.56410256410257
+Accuracy of Fig is 5.982905982905983
+Accuracy of Ginger Root is 22.22222222222222
+Accuracy of Granadilla is 81.32530120481928
+Accuracy of Grape Blue is 71.34146341463415
+Accuracy of Grape Pink is 5.487804878048781
+Accuracy of Grape White is 100.0
+Accuracy of Grape White 2 is 54.21686746987952
+Accuracy of Grape White 3 is 89.63414634146342
+Accuracy of Grape White 4 is 100.0
+Accuracy of Grapefruit Pink is 100.0
+Accuracy of Grapefruit White is 100.0
+Accuracy of Guava is 42.168674698795186
+Accuracy of Hazelnut is 85.35031847133759
+Accuracy of Huckleberry is 100.0
+Accuracy of Kaki is 82.53012048192771
+Accuracy of Kiwi is 17.94871794871795
+Accuracy of Kohlrabi is 31.84713375796178
+Accuracy of Kumquats is 72.89156626506023
+Accuracy of Lemon is 1.2195121951219512
+Accuracy of Lemon Meyer is 100.0
+Accuracy of Limes is 18.072289156626507
+Accuracy of Lychee is 74.09638554216868
+Accuracy of Mandarine is 98.79518072289156
+Accuracy of Mango is 64.45783132530121
+Accuracy of Mango Red is 15.492957746478872
+Accuracy of Mangostan is 53.92156862745098
+Accuracy of Maracuja is 42.77108433734939
+Accuracy of Melon Piel de Sapo is 8.536585365853659
+Accuracy of Mulberry is 20.121951219512198
+Accuracy of Nectarine is 11.585365853658537
+Accuracy of Nectarine Flat is 6.875000000000001
+Accuracy of Nut Forest is 98.62385321100918
+Accuracy of Nut Pecan is 2.8089887640449436
+Accuracy of Onion Red is 43.333333333333336
+Accuracy of Onion Red Peeled is 18.064516129032256
+Accuracy of Onion White is 66.43835616438356
+Accuracy of Orange is 100.0
+Accuracy of Papaya is 60.36585365853659
+Accuracy of Passion Fruit is 29.518072289156628
+Accuracy of Peach is 17.073170731707318
+Accuracy of Peach 2 is 93.4959349593496
+Accuracy of Peach Flat is 0.0
+Accuracy of Pear is 24.390243902439025
+Accuracy of Pear 2 is 4.310344827586207
+Accuracy of Pear Abate is 42.77108433734939
+Accuracy of Pear Forelle is 7.6923076923076925
+Accuracy of Pear Kaiser is 97.05882352941177
+Accuracy of Pear Monster is 74.09638554216868
+Accuracy of Pear Red is 2.2522522522522523
+Accuracy of Pear Stone is 33.755274261603375
+Accuracy of Pear Williams is 32.53012048192771
+Accuracy of Pepino is 55.42168674698795
+Accuracy of Pepper Green is 93.24324324324324
+Accuracy of Pepper Orange is 16.23931623931624
+Accuracy of Pepper Red is 57.65765765765766
+Accuracy of Pepper Yellow is 59.909909909909906
+Accuracy of Physalis is 100.0
+Accuracy of Physalis with Husk is 28.04878048780488
+Accuracy of Pineapple is 81.32530120481928
+Accuracy of Pineapple Mini is 57.668711656441715
+Accuracy of Pitahaya Red is 81.92771084337349
+Accuracy of Plum is 46.35761589403973
+Accuracy of Plum 2 is 89.43661971830986
+Accuracy of Plum 3 is 44.73684210526316
+Accuracy of Pomegranate is 1.8292682926829267
+Accuracy of Pomelo Sweetie is 60.78431372549019
+Accuracy of Potato Red is 38.0
+Accuracy of Potato Red Washed is 40.397350993377486
+Accuracy of Potato Sweet is 24.0
+Accuracy of Potato White is 39.33333333333333
+Accuracy of Quince is 96.3855421686747
+Accuracy of Rambutan is 65.85365853658537
+Accuracy of Raspberry is 100.0
+Accuracy of Redcurrant is 100.0
+Accuracy of Salak is 1.2345679012345678
+Accuracy of Strawberry is 7.926829268292683
+Accuracy of Strawberry Wedge is 18.29268292682927
+Accuracy of Tamarillo is 34.33734939759036
+Accuracy of Tangelo is 92.7710843373494
+Accuracy of Tomato 1 is 55.6910569105691
+Accuracy of Tomato 2 is 51.11111111111111
+Accuracy of Tomato 3 is 53.65853658536586
+Accuracy of Tomato 4 is 97.5
+Accuracy of Tomato Cherry Red is 100.0
+Accuracy of Tomato Heart is 52.63157894736842
+Accuracy of Tomato Maroon is 85.8267716535433
+Accuracy of Tomato not Ripened is 51.89873417721519
+Accuracy of Tomato Yellow is 94.11764705882352
+Accuracy of Walnut is 31.32530120481928
+Accuracy of Watermelon is 12.738853503184714
+Overall Accuracy is 51.097496473906915
